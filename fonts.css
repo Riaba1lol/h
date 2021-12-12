@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Graphik";
+  font-weight: 500;
+  src: url("./GraphikRegular.otf");
+}
+@font-face {
+  font-family: "Graphik";
+  font-weight: 700;
+  src: url("./GraphikMedium.otf");
+}
